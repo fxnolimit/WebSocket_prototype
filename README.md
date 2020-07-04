@@ -5,5 +5,5 @@
 ### What I learned:
 - MVC architecture
 - Socket.io
-- ExpressJS
+- Express.JS
 - RequireJS
