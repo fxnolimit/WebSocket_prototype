@@ -5,3 +5,5 @@
 ### What I learned:
 - MVC structure
 - Socket.io
+- ExpressJS
+- RequireJS
